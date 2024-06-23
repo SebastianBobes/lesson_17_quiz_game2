@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "password": "abc"
+    },
+    "player1": {
+        "full name": "John Doe",
+        "high_scoare": 0,
+        "password": "123"
+    },
+    "sebi": {
+        "fullname": "sebi",
+        "high_score": 0,
+        "password": "123"
+    },
+    "jack": {
+        "fullname": "jack",
+        "high_score": 0,
+        "password": "123"
+    }
+}
