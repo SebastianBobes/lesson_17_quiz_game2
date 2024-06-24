@@ -19,6 +19,16 @@
                 "101,300 K"
             ],
             "correctIndex": 1
+        },
+        {
+            "question": "cate piramide sunt la giza ?",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correctIndex": 2
         }
     ]
 }
