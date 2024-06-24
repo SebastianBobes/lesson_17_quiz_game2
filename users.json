@@ -4,7 +4,7 @@
     },
     "player1": {
         "full name": "John Doe",
-        "high_scoare": 0,
+        "high_score": 0,
         "password": "123"
     },
     "sebi": {
@@ -14,7 +14,8 @@
     },
     "jack": {
         "fullname": "jack",
-        "high_score": 0,
-        "password": "123"
+        "high_score": 1,
+        "password": "123",
+        "date": "2024/06/24, 11:01"
     }
 }
