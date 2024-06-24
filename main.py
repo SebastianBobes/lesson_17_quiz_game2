@@ -13,7 +13,7 @@ if __name__ == '__main__':
     current_player = users.login()
 
     while True:
-        if list(list(current_player.keys())[0]) =='admin':
+        if list(current_player.keys())[0] =='admin':
             admin_functions.run()
         else:
             print(f"Let's play {list(current_player.keys())[0]}")
